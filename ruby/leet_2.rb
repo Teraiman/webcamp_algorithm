@@ -10,7 +10,7 @@ def convert_leet(chara)
     "1"
   when "O" then
     "0"
-  else # どれにも当てはまらないとき
+  else
     chara
   end
 end
